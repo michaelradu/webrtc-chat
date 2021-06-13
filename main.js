@@ -5,13 +5,7 @@ import 'firebase/firestore';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyC5ryQJfZ4rPc3QnF6Wo4_sgaWeYeILIts",
-  authDomain: "webrtc-b852a.firebaseapp.com",
-  projectId: "webrtc-b852a",
-  storageBucket: "webrtc-b852a.appspot.com",
-  messagingSenderId: "885071626815",
-  appId: "1:885071626815:web:8fc2d6dbf4203e6ac06e8a",
-  measurementId: "G-GQ5YR5J9RF"
+  // your config
 };
 
 if (!firebase.apps.length) {
